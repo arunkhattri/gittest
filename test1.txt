@@ -1,0 +1,2 @@
+Okay it's just to test the git / magit testing .
+Also it serve as a practise for typing also.
